@@ -1,0 +1,2 @@
+"linegraph_plot_box_title", "ifelse(rv$region_select == NULL, text_ref('Regional'), text_ref('Country')) linegraph box title: {report_week}",
+"linegraph_plot_footnote", "* this asterisks indicates something about the data."
